@@ -1,0 +1,16 @@
+{
+  "name": "solving-hackerrank",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solution to problems on HackerRank",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx standard --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
