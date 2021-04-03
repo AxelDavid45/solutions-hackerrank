@@ -17,6 +17,8 @@ function hourglassSum (arr) {
   hourglassSum.sort((a, b) => a - b)
   return hourglassSum[hourglassSum.length - 1]
 }
+
+// Recursividad
 const arr = [
   [1, 1, 1, 0, 0, 0],
   [0, 1, 0, 0, 0, 0],
